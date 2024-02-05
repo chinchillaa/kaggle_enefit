@@ -162,3 +162,6 @@ cython_debug/
 
 # Data directory
 data/
+
+# VSCode
+.vscode/
